@@ -4,15 +4,7 @@ body {
     padding: 0;
 }
 
-header {
-    background-color: rgb(255, 168, 168);
-    color: #fff;
-    padding: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    text-align: center;
-}
+
 
 nav ul {
     list-style-type: none;
